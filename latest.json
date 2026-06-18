@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "1.2",
-  "apkUrl": "",
-  "sha256": "",
+  "versionCode": 3,
+  "versionName": "1.3",
+  "apkUrl": "https://github.com/elshanwork/crowdmeasure-releases/releases/download/v1.3/app-v3.apk",
+  "sha256": "fd434705d6e8be31a028ff9e3e8c035dd523d2ef20925f128f2a09485b3433a7",
   "forceUpdate": false,
-  "releaseNotes": "No update available."
+  "releaseNotes": "Bug fixes and stability improvements."
 }
