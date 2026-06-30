@@ -1,8 +1,8 @@
 {
-    "versionCode":  7,
-    "versionName":  "1.7",
-    "apkUrl":  "https://github.com/elshanwork/crowdmeasure-releases/releases/download/v1.7/app-v7.apk",
-    "sha256":  "839ee6232bd77d6a15a16fad6bbf7de7fb605c24e8472c5e3d946c73e6ed07fb",
+    "versionCode":  8,
+    "versionName":  "1.8",
+    "apkUrl":  "https://github.com/elshanwork/crowdmeasure-releases/releases/download/v1.8/app-v8.apk",
+    "sha256":  "ef9aceb4a9de4ee64af2f713533d575aa1426a2e6aaecc336c6185ab9a5a03cc",
     "forceUpdate":  false,
-    "releaseNotes":  "Fix background scheduling after app update."
+    "releaseNotes":  "App updated"
 }
