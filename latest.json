@@ -1,8 +1,8 @@
 {
-    "versionCode":  10,
-    "versionName":  "1.10",
-    "apkUrl":  "https://github.com/elshanwork/crowdmeasure-releases/releases/download/v1.10/app-v10.apk",
-    "sha256":  "96fdcf5a8b83e9d66acd59711692e5f8843326927e62b0a9ba1ff01e885bd783",
+    "versionCode":  11,
+    "versionName":  "1.11",
+    "apkUrl":  "https://github.com/elshanwork/crowdmeasure-releases/releases/download/v1.11/app-v11.apk",
+    "sha256":  "dad2eea51b44931f9fbce66bea3dc1e57241ef35b41b15b4a25d7fa9d984b361",
     "forceUpdate":  false,
     "releaseNotes":  "App updated"
 }
